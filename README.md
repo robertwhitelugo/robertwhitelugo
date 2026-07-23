@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Roberto Blanco Lugo 👋
 
-<!--
-**robertwhitelugo/robertwhitelugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Turning data into actionable business insights
 
-Here are some ideas to get you started:
+I'm a Data Analyst in training with a background of more than 10 years in training, organizational development, and business process improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm strengthening my skills through the TripleTen Data Analyst Bootcamp, where I work on real-world projects involving SQL, Python, Pandas, Excel, and Power BI to transform data into actionable business insights.
+
+I enjoy solving business problems through data analysis, creating dashboards, and communicating findings in a clear and practical way.
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- SQL
+- Power BI
+- Microsoft Excel
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+- Urban Mobility and Economic Performance Analysis
+- Financial Performance Analysis with SQL
+- MercadoLibre Funnel & Retention Analysis
+- Air Pollution Analysis in Latin America
+
+More projects coming soon...
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Power BI
+- Data Visualization
+- Business Intelligence
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/roberto-blanco-lugo
+- Portfolio: https://capricious-ravioli-205.notion.site/Alejo-Castro-Data-Analyst-Portfolio-3108a0fc5e6680238b98fad32bfffe0f
