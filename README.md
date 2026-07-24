@@ -23,12 +23,13 @@ I enjoy solving business problems through data analysis, creating dashboards, an
 
 ## 📂 Featured Projects
 
-- Urban Mobility and Economic Performance Analysis
-- Financial Performance Analysis with SQL
-- MercadoLibre Funnel & Retention Analysis
-- Air Pollution Analysis in Latin America
+- [Urban Mobility and Economic Performance Analysis](https://github.com/robertwhitelugo/mobility-economic-analysis)
 
-More projects coming soon...
+- Financial Performance Analysis with SQL *(Coming soon)*
+
+- MercadoLibre Funnel & Retention Analysis *(Coming soon)*
+
+- Air Pollution Analysis in Latin America *(Coming soon)*
 
 ---
 
@@ -44,5 +45,5 @@ More projects coming soon...
 
 ## 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/roberto-blanco-lugo
-- Portfolio: https://capricious-ravioli-205.notion.site/Alejo-Castro-Data-Analyst-Portfolio-3108a0fc5e6680238b98fad32bfffe0f
+- LinkedIn: [Roberto Blanco Lugo](https://www.linkedin.com/in/roberto-blanco-lugo/)
+- Portfolio: [Data Analyst Portfolio](https://capricious-ravioli-205.notion.site/Alejo-Castro-Data-Analyst-Portfolio-3108a0fc5e6680238b98fad32bfffe0f)
