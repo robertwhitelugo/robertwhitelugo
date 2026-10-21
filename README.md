@@ -1,49 +1,57 @@
+
 # Hi, I'm Roberto Blanco Lugo 👋
 
-## Data Analyst | Turning data into actionable business insights
+## Data Analyst | Business Analytics & Data Visualization
 
-I'm a Data Analyst in training with a background of more than 10 years in training, organizational development, and business process improvement.
+I am a Data Analyst with a background in business administration, internal auditing, organizational assessment, and information quality evaluation.
 
-Currently, I'm strengthening my skills through the TripleTen Data Analyst Bootcamp, where I work on real-world projects involving SQL, Python, Pandas, Excel, and Power BI to transform data into actionable business insights.
+My professional experience has strengthened my ability to investigate inconsistencies, assess data reliability, analyze business processes, and communicate findings that support informed decisions.
 
-I enjoy solving business problems through data analysis, creating dashboards, and communicating findings in a clear and practical way.
+I completed the TripleTen Data Analytics program, developing projects focused on business performance, financial analysis, customer behavior, data cleaning, and interactive dashboards.
 
----
+## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
+**Data Analysis:** SQL, Python, Pandas, Excel
 
-- Python
-- Pandas
-- SQL
-- Power BI
-- Microsoft Excel
-- Git & GitHub
+**Business Intelligence:** Tableau, Power BI, KPI Analysis, Dashboard Development
 
----
+**Data Preparation:** Data Cleaning, Exploratory Data Analysis (EDA), Data Validation
 
-## 📂 Featured Projects
+**Analytical Methods:** Descriptive Statistics, Cohort Analysis, Conversion Funnels, A/B Testing
 
-- [Urban Mobility and Economic Performance Analysis](https://github.com/robertwhitelugo/mobility-economic-analysis)
+**Tools:** Jupyter Notebook, Git, GitHub
 
-- Financial Performance Analysis with SQL *(Coming soon)*
+## 📊 Featured Projects
 
-- MercadoLibre Funnel & Retention Analysis *(Coming soon)*
+### RappiPlus | E-commerce Analytics
+Analyzed sales performance, profitability, customer retention, and conversion behavior. Identified a 13.29% decrease between checkout initiation and payment information entry.
 
-- Air Pollution Analysis in Latin America *(Coming soon)*
+**Tools:** Python, Pandas, Tableau
 
----
+### Andes Capital Real Estate | Commercial Performance
+Developed interactive dashboards to analyze 8,500 property sales records, comparing sales channels, business indicators, and commercial performance.
 
-## 🌱 Currently Learning
+**Tools:** Tableau
 
-- Advanced SQL
-- Python for Data Analysis
-- Power BI
-- Data Visualization
-- Business Intelligence
+### Andes Retail Group | Financial and Sales Analysis
+Analyzed 5,000 orders to evaluate revenue, costs, profitability, and product category performance.
 
----
+**Tools:** Tableau
 
-## 📫 Connect with me
+### Urban Mobility and Economic Performance
+Prepared and analyzed urban mobility and economic datasets using Python and Pandas to explore patterns across cities and indicators.
 
-- LinkedIn: [Roberto Blanco Lugo](https://www.linkedin.com/in/roberto-blanco-lugo/)
-- Portfolio: [Data Analyst Portfolio](https://capricious-ravioli-205.notion.site/Alejo-Castro-Data-Analyst-Portfolio-3108a0fc5e6680238b98fad32bfffe0f)
+**Tools:** Python, Pandas, Jupyter Notebook
+
+## 🎯 Professional Focus
+
+I focus on translating complex information into understandable business insights, with particular interest in e-commerce, business operations, financial performance, and continuous improvement.
+
+## 📫 Contact
+
+**Email:** robertwhitelugo@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/roberto-blanco-lugo-/
+
+**GitHub:** https://github.com/robertwhitelugo
+
